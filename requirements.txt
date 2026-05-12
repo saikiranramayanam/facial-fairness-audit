@@ -1,0 +1,17 @@
+torch
+torchvision
+torchaudio
+
+numpy
+pandas
+matplotlib
+scikit-learn
+
+opencv-python
+pillow
+
+fairlearn
+
+tqdm
+
+jupyter

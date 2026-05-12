@@ -1,0 +1,12 @@
+{
+    "most_biased_pairing": {
+        "group_1": "Male_20-39_Light",
+        "group_2": "overall",
+        "metric": "far_disparity",
+        "value": 1.0
+    },
+    "hypothesized_causes": {
+        "data_level": "Some demographic groups may be underrepresented in the dataset, causing uneven feature learning and poor generalization.",
+        "model_level": "The pretrained CNN backbone may inherit demographic biases from large-scale pretraining datasets."
+    }
+}

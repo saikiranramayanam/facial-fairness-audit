@@ -1,0 +1,102 @@
+{
+    "Male_20-39_Light": {
+        "far": 0.9216,
+        "frr": 0.0896
+    },
+    "Female_20-39_Medium": {
+        "far": 0.9258,
+        "frr": 0.0297
+    },
+    "Male_40-59_Light": {
+        "far": 0.8981,
+        "frr": 0.0906
+    },
+    "Female_0-19_Light": {
+        "far": 0.9245,
+        "frr": 0.044
+    },
+    "Male_20-39_Dark": {
+        "far": 0.9388,
+        "frr": 0.0816
+    },
+    "Female_40-59_Light": {
+        "far": 0.9402,
+        "frr": 0.0342
+    },
+    "Male_40-59_Medium": {
+        "far": 0.8881,
+        "frr": 0.1119
+    },
+    "Female_20-39_Light": {
+        "far": 0.9108,
+        "frr": 0.0706
+    },
+    "Female_0-19_Medium": {
+        "far": 0.9524,
+        "frr": 0.0238
+    },
+    "Female_20-39_Dark": {
+        "far": 0.9589,
+        "frr": 0.0506
+    },
+    "Male_20-39_Medium": {
+        "far": 0.8853,
+        "frr": 0.086
+    },
+    "Female_40-59_Medium": {
+        "far": 0.9722,
+        "frr": 0.1111
+    },
+    "Female_60+_Dark": {
+        "far": 0.96,
+        "frr": 0.0
+    },
+    "Male_40-59_Dark": {
+        "far": 0.9457,
+        "frr": 0.0652
+    },
+    "Male_0-19_Light": {
+        "far": 0.962,
+        "frr": 0.0506
+    },
+    "Male_0-19_Medium": {
+        "far": 0.9469,
+        "frr": 0.0531
+    },
+    "Female_40-59_Dark": {
+        "far": 1.0,
+        "frr": 0.037
+    },
+    "Male_60+_Light": {
+        "far": 0.9104,
+        "frr": 0.0672
+    },
+    "Male_0-19_Dark": {
+        "far": 0.9818,
+        "frr": 0.0182
+    },
+    "Female_60+_Light": {
+        "far": 0.9248,
+        "frr": 0.0376
+    },
+    "Female_0-19_Dark": {
+        "far": 0.9861,
+        "frr": 0.0
+    },
+    "Female_60+_Medium": {
+        "far": 0.85,
+        "frr": 0.15
+    },
+    "Male_60+_Medium": {
+        "far": 0.9365,
+        "frr": 0.0635
+    },
+    "Male_60+_Dark": {
+        "far": 0.9643,
+        "frr": 0.1071
+    },
+    "overall": {
+        "far": 0.9291,
+        "frr": 0.0624
+    }
+}

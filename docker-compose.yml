@@ -1,0 +1,16 @@
+services:
+  facial_audit:
+    build: .
+
+    container_name: facial_fairness_project
+
+    volumes:
+      - .:/app
+
+    healthcheck:
+      test: ["CMD", "python", "-c", "import torch; import cv2; print('healthy')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+    command: python main.py
